@@ -20,3 +20,4 @@ Runs 100,000 Monte Carlo simulated portfolios to map the efficient frontier, the
 
 Run in Jupyter or Google Colab with an active internet connection (for live data via yfinance). Install dependencies with: `pip install -r requirements.txt`
 
+
